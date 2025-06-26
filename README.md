@@ -1,5 +1,5 @@
 📊 Data Insights by BS — An Interactive EDA Tool
-Live Demo: data-insights-by-bs.netlify.app
+Live Demo: https://data-insights-by-bs.netlify.app/
 
 Data Insights by BS is a web-based Exploratory Data Analysis (EDA) tool designed to help users visually analyze datasets with ease. Built with HTML, CSS, JavaScript, and Chart.js, this interactive platform simplifies data exploration through dynamic charts and intuitive UI components.
 
